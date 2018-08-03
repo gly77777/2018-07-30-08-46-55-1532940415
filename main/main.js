@@ -1,4 +1,4 @@
-module.exports = function main(str) {
+module.exports = function main(str='') {
   // Write your code here
   for(var i=0;i<str.length;i++){
     var sum=0;
